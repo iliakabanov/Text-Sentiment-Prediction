@@ -1,5 +1,5 @@
 # Text-Semantic-Prediction
-In ths task we have to predict text semantic: wether phone review is positive or negative. 
+In ths task we have to predict text semantic: whether phone review is positive or negative. 
 Steps undertaken:
 * Cleaning datasets from wrong untyped lines, lowering words
 
