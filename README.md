@@ -9,4 +9,4 @@ Steps undertaken:
 * hyperparameter tuning through croos-validation
 * logistic regression implemention
 
-Conclusion: Obtained results are rather solid, but may pe improved with transformer neural network.
+Conclusion: Obtained results are rather solid, but may be improved with a transformer neural network.
