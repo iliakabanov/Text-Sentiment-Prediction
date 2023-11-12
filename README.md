@@ -6,7 +6,7 @@ Steps undertaken:
 * Lemmatization
 * tf-idf implemantion to count weight of each word in a sentence
 * word2vec embedding
-* hyperparameter tuning through croos-validation
+* hyperparameter tuning through cross-validation
 * logistic regression implemention
 
 Conclusion: Obtained results are rather solid, but may be improved with a transformer neural network.
