@@ -4,7 +4,7 @@ Steps undertaken:
 * Cleaning datasets from wrong untyped lines, lowering words
 * Skipping stop words
 * Lemmatization
-* tf-idf implemantion to count weight of each word in a sentence
+* tf-idf implementation to count weight of each word in a sentence
 * word2vec embedding
 * hyperparameter tuning through cross-validation
 * logistic regression implemention
