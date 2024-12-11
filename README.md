@@ -1,5 +1,5 @@
 # Text-Sentiment-Prediction
-In ths task we have to predict text semantic: whether phone review is positive or negative. 
+In ths task we have to predict text sentiment: whether phone review is positive or negative. 
 Steps undertaken:
 * Cleaning datasets from wrong untyped lines, lowering words
 * Skipping stop words
@@ -9,4 +9,4 @@ Steps undertaken:
 * hyperparameter tuning through cross-validation
 * logistic regression implementation
 
-Conclusion: Obtained results are rather solid, but may be improved with a transformer neural network.
+Conclusion: Obtained results are rather solid, but may be improved with BERT model.
